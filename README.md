@@ -1,4 +1,4 @@
 sshpass
 =======
 
-assign  password in command to ssh server
+assign password in command to ssh server
